@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc&#237;cio5"/>
+        <attribute name="authors" value="1DEVSESI46A"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-13 02:54:23 "/>
+        <attribute name="created" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMjg2NTkwOzIwMjYtMDMtMTM7IjAyOjUxOjUwICI7MjgxMw=="/>
+        <attribute name="edited" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMjg2NTkwOzIwMjYtMDMtMTM7IjAyOjU0OjIzICI7MTsyOTI0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Insira sua Primeira Nota&quot;" newline="True"/>
+            <declare name="A" type="Integer" array="False" size=""/>
+            <input variable="A"/>
+            <output expression="&quot;Insira sua Segunda Nota&quot;" newline="True"/>
+            <declare name="B" type="Integer" array="False" size=""/>
+            <input variable="B"/>
+            <output expression="&quot;Sua Nota M&#233;dia &#233; de &quot; &amp; (A+B)/2" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

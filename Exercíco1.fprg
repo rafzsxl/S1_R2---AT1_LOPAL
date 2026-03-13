@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc&#237;co1"/>
+        <attribute name="authors" value="1DEVSESI46A"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-13 01:25:29 "/>
+        <attribute name="created" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMjg2NTkwOzIwMjYtMDMtMTM7IjAxOjIxOjA1ICI7MjgwOQ=="/>
+        <attribute name="edited" value="MURFVlNFU0k0NkE7RUNGUDUwN0QxMjg2NTkwOzIwMjYtMDMtMTM7IjAxOjI1OjI5ICI7MTsyOTI3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Digite seu Nome&quot;" newline="True"/>
+            <declare name="NOME" type="String" array="False" size=""/>
+            <input variable="NOME"/>
+            <output expression="&quot;Ol&#225; &quot; &amp; NOME" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
